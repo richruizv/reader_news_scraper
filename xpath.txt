@@ -1,0 +1,4 @@
+X_PATH_LINK_TO_ARTICLE = '//h2[@class="post-title-ticker"]//a/@href'
+X_PATH_TITLE= '//div[contains(@class,"thumbnail")]/following-sibling::h1[1]/text()'
+X_PATH_SUMMARY = '//div[contains(@class,"thumbnail")]/following-sibling::h2[1]/p/text()'
+X_PATH_BODY = '//div[contains(@class,"content")]/p/text()'
